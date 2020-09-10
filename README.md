@@ -1,1 +1,21 @@
-Now Editing...
+docker-compose using files which creates development environment for PHP, MySQL, Nginx, phpMyAdmin.
+## Install
+```
+git clone https://github.com/shunak/php_mysql_nginx_phpmyadmin.git
+```
+## How to use
+```
+cd php_mysql_nginx_phpmyadmin
+```
+for detachment mode
+```
+docker-compose up -d
+```
+if you wanna check log for docker-compose
+```
+docker-compose
+```
+PHP: [http://localhost:8080](http://localhost:8080)
+phpMyAdmin: [http://localhost:8888](http://localhost:8888)
+
+
