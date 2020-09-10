@@ -15,7 +15,7 @@ if you wanna check log for docker-compose
 ```
 docker-compose
 ```
-PHP: [http://localhost:8080](http://localhost:8080)
+PHP: [http://localhost:8080](http://localhost:8080) <br>
 phpMyAdmin: [http://localhost:8888](http://localhost:8888)
 
 
