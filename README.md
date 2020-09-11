@@ -1,5 +1,6 @@
 development environment for PHP, MySQL, Nginx, phpMyAdmin using docker container.
 ## Install
+before install, you must install [docker](https://www.docker.com/get-started) if you don't.
 ```
 git clone https://github.com/shunak/php_mysql_nginx_phpmyadmin.git
 ```
