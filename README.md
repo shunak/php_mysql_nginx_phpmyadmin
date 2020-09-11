@@ -1,4 +1,4 @@
-docker-compose using files which creates development environment for PHP, MySQL, Nginx, phpMyAdmin.
+development environment for PHP, MySQL, Nginx, phpMyAdmin using docker container.
 ## Install
 ```
 git clone https://github.com/shunak/php_mysql_nginx_phpmyadmin.git
